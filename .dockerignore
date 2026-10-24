@@ -11,3 +11,5 @@ bootstrap/cache/*.php
 .DS_Store
 terraform
 README.md
+Jenkinsfile
+docker-compose*.yml
