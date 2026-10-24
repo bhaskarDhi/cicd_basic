@@ -1,0 +1,11 @@
+.env
+.git
+vendor
+node_modules
+database/database.sqlite
+storage/logs/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/framework/cache/data/*
+bootstrap/cache/*.php
+.DS_Store
