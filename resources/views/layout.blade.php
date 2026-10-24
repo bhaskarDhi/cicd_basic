@@ -32,7 +32,7 @@
 </head>
 <body>
 <header>
-    <div><b>Task</b> App</div>
+    <div><b>Task</b> App v2</div>
     @auth
         <form class="inline" method="POST" action="{{ route('logout') }}">
             @csrf
