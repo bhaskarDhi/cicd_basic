@@ -9,3 +9,5 @@ storage/framework/views/*
 storage/framework/cache/data/*
 bootstrap/cache/*.php
 .DS_Store
+terraform
+README.md
